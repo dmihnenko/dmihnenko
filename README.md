@@ -51,8 +51,6 @@ GoIT student   <img src="https://www.edu.goit.global/_next/image?url=https%3A%2F
   <img src="./images/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="./images/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="./images/photoshop-original.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src="./images/illustrator-original.png" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
   <img src="./images/ui-ux.png" title="UI/UX" alt="UI/UX" width="40" height="40"/>&nbsp;
 </div>
 
