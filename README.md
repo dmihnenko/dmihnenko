@@ -8,14 +8,14 @@
  </div>
  
 ### 👨‍💻 About Me :
-GoIT student   <img src="https://www.edu.goit.global/_next/image?url=https%3A%2F%2Fs3.eu-north-1.amazonaws.com%2Flms.goit.files%2F0618d8e0-2652-3e30-ae44-fd6ff17d55a1.png&w=3840&q=75" width="30px"/>
+GoIT student   <img src="https://www.edu.goit.global/_next/image?url=https%3A%2F%2Fs3.eu-north-1.amazonaws.com%2Flms.goit.files%2F0618d8e0-2652-3e30-ae44-fd6ff17d55a1.png&w=3840&q=75" width=60px"/>
 
-🌐 Languages : krainian - native | English - study
+🌐 Languages : Ukrainian - native | English - study
 
 ### Roadmap 2023 :
 
-<span style='font-size:40px;'>&#9989;</span> - **Improve:** `HTML5` | `CSS3` | `JavaScript` <br>
-<span style='font-size:40px;'>&#128214;</span> - **learn:** `React` | `React Native` | `Node.js` | `TypeScript` | `UI/UX` <br>
+<span style='font-size:60px;'>&#9989;</span> - **Improve:** `HTML5` | `CSS3` | `JavaScript` <br>
+<span style='font-size:60px;'>&#128214;</span> - **learn:** `React` | `React Native` | `Node.js` | `TypeScript` | `UI/UX` <br>
 
 <div align=center> 
    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=40&lines=My+stack+and+tools:+++++;" alt="Wellcome" /> 
