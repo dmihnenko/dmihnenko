@@ -14,8 +14,8 @@ GoIT student   <img src="https://www.edu.goit.global/_next/image?url=https%3A%2F
 
 ### Roadmap 2023 :
 
-<span style='font-size:60px;'>&#9989;</span> - **Improve:** `HTML5` | `CSS3` | `JavaScript` <br>
-<span style='font-size:60px;'>&#128214;</span> - **learn:** `React` | `React Native` | `Node.js` | `TypeScript` | `UI/UX` <br>
+<span style='font-size:70px;'>&#9989;</span> - **Improve:** `HTML5` | `CSS3` | `JavaScript` <br>
+<span style='font-size:70px;'>&#128214;</span> - **learn:** `React` | `React Native` | `Node.js` | `TypeScript` | `UI/UX` <br>
 
 <div align=center> 
    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=40&lines=My+stack+and+tools:+++++;" alt="Wellcome" /> 
@@ -33,7 +33,6 @@ GoIT student   <img src="https://www.edu.goit.global/_next/image?url=https%3A%2F
   <img src="./images/github-original.svg" title="Github"  alt="Github" width="40"/>&nbsp;
   <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="./images/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="./images/vite-original.png" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="./images/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
   <img src="./images/npm-original.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
   <img src="./images/parcel-original.avif" title="Parcel" alt="Parcel" width="40" height="40"/>&nbsp;
