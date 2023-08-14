@@ -8,7 +8,7 @@
  </div>
  
 ### 👨‍💻 About Me :
-GoIT student   <img src="https://www.edu.goit.global/_next/image?url=https%3A%2F%2Fs3.eu-north-1.amazonaws.com%2Flms.goit.files%2F0618d8e0-2652-3e30-ae44-fd6ff17d55a1.png&w=3840&q=75" width=60px"/>
+GoIT student   <img src="https://www.edu.goit.global/_next/image?url=https%3A%2F%2Fs3.eu-north-1.amazonaws.com%2Flms.goit.files%2F0618d8e0-2652-3e30-ae44-fd6ff17d55a1.png&w=3840&q=75" width="60px"/>
 
 🌐 Languages : Ukrainian - native | English - study
 
